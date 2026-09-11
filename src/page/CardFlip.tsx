@@ -9,7 +9,10 @@ interface Card {
   id: number;
   isFlipped: boolean;
   isMatched: boolean;
+  pairId: number;
 }
+
+interface CustomImage { name: string; image: string; }
 
 const CardFlip = () => {
   const location = useLocation();
@@ -17,6 +20,8 @@ const CardFlip = () => {
     () => location.state?.selectedCards || [],
     [location.state?.selectedCards]
   );
+  const customImages = useMemo<CustomImage[]>(() => location.state?.customImages || [], [location.state?.customImages]);
+  const mode = location.state?.mode || "default";
   const [gameCards, setGameCards] = useState<Card[]>([]);
   const [flippedCards, setFlippedCards] = useState<number[]>([]);
   const [countdown, setCountdown] = useState(
@@ -24,23 +29,24 @@ const CardFlip = () => {
   );
   const [isGameStarted, setIsGameStarted] = useState(false);
   const [isChecking, setIsChecking] = useState(false);
+  const [moves, setMoves] = useState(0);
 
   // 게임 초기화
   useEffect(() => {
-    const selectedCards = selectedCardIndices.flatMap((index: number) => [
-      { ...cards[index][0], id: index * 2, isFlipped: true, isMatched: false },
-      {
-        ...cards[index][1],
-        id: index * 2 + 1,
-        isFlipped: true,
-        isMatched: false,
-      },
-    ]);
+    const selectedCards: Card[] = mode === "custom"
+      ? customImages.flatMap((item, index) => [
+          { ...item, id: index * 2, pairId: index, isFlipped: true, isMatched: false },
+          { ...item, id: index * 2 + 1, pairId: index, isFlipped: true, isMatched: false },
+        ])
+      : selectedCardIndices.flatMap((index: number) => [
+          { ...cards[index][0], id: index * 2, pairId: index, isFlipped: true, isMatched: false },
+          { ...cards[index][1], id: index * 2 + 1, pairId: index, isFlipped: true, isMatched: false },
+        ]);
 
     // 카드 섞기
     const shuffledCards = [...selectedCards].sort(() => Math.random() - 0.5);
     setGameCards(shuffledCards);
-  }, [selectedCardIndices]);
+  }, [customImages, mode, selectedCardIndices]);
 
   // 카운트다운
   useEffect(() => {
@@ -72,12 +78,13 @@ const CardFlip = () => {
     setGameCards(newGameCards);
 
     if (newFlippedCards.length === 2) {
+      setMoves((current) => current + 1);
       setIsChecking(true);
       const [firstIndex, secondIndex] = newFlippedCards;
       const firstCard = newGameCards[firstIndex];
       const secondCard = newGameCards[secondIndex];
 
-      if (Math.floor(firstCard.id / 2) === Math.floor(secondCard.id / 2)) {
+      if (firstCard.pairId === secondCard.pairId) {
         // 짝이 맞는 경우
         newGameCards[firstIndex].isMatched = true;
         newGameCards[secondIndex].isMatched = true;
@@ -102,6 +109,8 @@ const CardFlip = () => {
     }
   };
 
+  const isComplete = gameCards.length > 0 && gameCards.every((card) => card.isMatched);
+
   return (
     <div className="card-flip-container">
       <Link to="/" className="float-button">
@@ -112,11 +121,17 @@ const CardFlip = () => {
           ? `카드 위치를 외우세요! ${countdown}초`
           : "카드 뒤집기 게임"}
       </h1>
+      {gameCards.length === 0 && <div className="empty-game"><strong>선택된 카드가 없어요.</strong><Link to="/">카드 선택하러 가기</Link></div>}
+      {isGameStarted && gameCards.length > 0 && <div className="game-status"><span>시도 <strong>{moves}</strong>회</span><span>완성 <strong>{gameCards.filter((card) => card.isMatched).length / 2}</strong> / {gameCards.length / 2}</span></div>}
       <div className="card-grid">
         {gameCards.map((card, index) => (
           <div
-            key={index}
+            key={card.id}
             onClick={() => handleCardClick(index)}
+            onKeyDown={(event) => { if (event.key === "Enter" || event.key === " ") { event.preventDefault(); handleCardClick(index); } }}
+            role="button"
+            tabIndex={card.isMatched ? -1 : 0}
+            aria-label={`${index + 1}번 카드${card.isFlipped ? `, ${card.name}` : ""}`}
             className={`card ${card.isFlipped ? "flipped" : ""} ${
               card.isMatched ? "matched" : ""
             }`}
@@ -134,6 +149,7 @@ const CardFlip = () => {
           </div>
         ))}
       </div>
+      {isComplete && <div className="complete-panel" role="status"><span aria-hidden="true">🎉</span><strong>모든 짝을 찾았어요!</strong><p>{moves}번 만에 완성했습니다.</p><Link to="/">새 게임 만들기</Link></div>}
     </div>
   );
 };

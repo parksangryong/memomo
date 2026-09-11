@@ -1,4 +1,4 @@
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { createBrowserRouter, createMemoryRouter, RouterProvider } from "react-router-dom";
 import ReactGA4 from "react-ga4";
 import { useEffect } from "react";
 // pages
@@ -8,7 +8,7 @@ import CardFlip from "./page/CardFlip";
 // layout
 import BaseLayout from "./layout/BaseLayout";
 
-function App() {
+function App({ url }: { url?: string }) {
   useEffect(() => {
     ReactGA4.initialize([
       {
@@ -19,7 +19,7 @@ function App() {
       },
     ]);
   }, []);
-  const router = createBrowserRouter([
+  const routes = [
     {
       path: "/",
       element: <BaseLayout />,
@@ -38,7 +38,8 @@ function App() {
       path: "/card-flip",
       element: <CardFlip />,
     },
-  ]);
+  ];
+  const router = url ? createMemoryRouter(routes, { initialEntries: [url] }) : createBrowserRouter(routes);
   return <RouterProvider router={router} />;
 }
 
