@@ -4,6 +4,7 @@ import { useEffect } from "react";
 // pages
 import Home from "./page/Home";
 import CardFlip from "./page/CardFlip";
+import Privacy from "./page/Privacy";
 
 // layout
 import BaseLayout from "./layout/BaseLayout";
@@ -32,11 +33,8 @@ function App({ url }: { url?: string }) {
           path: "/card-flip",
           element: <CardFlip />,
         },
+        { path: "/privacy", element: <Privacy /> },
       ],
-    },
-    {
-      path: "/card-flip",
-      element: <CardFlip />,
     },
   ];
   const router = url ? createMemoryRouter(routes, { initialEntries: [url] }) : createBrowserRouter(routes);
