@@ -1,6 +1,7 @@
 import { ChangeEvent, useRef, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { cards } from "../data/cardData";
+import SeoGuide from "../SeoGuide";
 
 type GameMode = "default" | "custom";
 type CustomImage = { name: string; image: string };
@@ -114,6 +115,7 @@ const Home = () => {
         </section>
       )}
       <button onClick={handleStart} className="home-button" disabled={isProcessing}>{isProcessing ? "준비 중…" : "게임 시작하기"}</button>
+      <SeoGuide />
     </main>
   );
 };
