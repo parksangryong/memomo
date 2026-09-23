@@ -1,3 +1,4 @@
+import Guide from "./Guide";
 import { createBrowserRouter, createMemoryRouter, RouterProvider } from "react-router-dom";
 import ReactGA4 from "react-ga4";
 import { useEffect } from "react";
@@ -34,6 +35,7 @@ function App({ url }: { url?: string }) {
           element: <CardFlip />,
         },
         { path: "/privacy", element: <Privacy /> },
+    { path: "/guide", element: <Guide /> },
       ],
     },
   ];

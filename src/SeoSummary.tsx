@@ -1,0 +1,1 @@
+import "./seo-guide.css"; export default function SeoSummary(){return <section className="seo-summary"><div><span>QUICK GUIDE</span><h2>처음 사용하시나요?</h2><p>모드 선택 → 카드 설정 → 짝 맞추기</p></div><a href="/guide/">자세한 사용법과 FAQ 보기 <b>→</b></a></section>}
