@@ -1,7 +1,7 @@
 import { mkdir, writeFile } from "node:fs/promises";
 import { join } from "node:path";
 
-const client = process.env.VITE_ADSENSE_CLIENT || "";
+const client = "ca-pub-9309397372527518";
 const match = client.match(/^ca-pub-([0-9]{10,})$/);
 if (match && !/^0+$/.test(match[1])) {
   await mkdir("dist", { recursive: true });

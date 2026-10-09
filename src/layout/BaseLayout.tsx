@@ -7,7 +7,7 @@ const BaseLayout = () => {
   return (
     <div className="layout-container">
       <Outlet />
-      <AdSense slot={import.meta.env.VITE_ADS_DISPLAY_HORIZONTAL_FOOTER} />
+      <AdSense slot={""} />
       <span className="copyright">
         © {currentYear} Memomo. Mirr56 All rights reserved. 2025
       </span>
