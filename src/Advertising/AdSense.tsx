@@ -1,3 +1,4 @@
 import { useEffect } from "react";
-const client="ca-pub-9309397372527518";
+import { ADSENSE_CLIENT } from "../config/ads";
+const client = ADSENSE_CLIENT;
 export function AdSense({slot}:{slot?:string}){useEffect(()=>{if(!client||document.querySelector("script[data-adsense-loader]"))return;const s=document.createElement("script");s.async=true;s.crossOrigin="anonymous";s.dataset.adsenseLoader="true";s.src=`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${client}`;document.head.appendChild(s)},[]);useEffect(()=>{if(client&&slot)try{const w=window as unknown as {adsbygoogle?:Record<string,unknown>[]};(w.adsbygoogle||=[]).push({})}catch{/* blocked */}},[slot]);return client&&slot?<aside className="ad-slot" aria-label="광고"><ins className="adsbygoogle" style={{display:"block"}} data-ad-client={client} data-ad-slot={slot} data-ad-format="auto" data-full-width-responsive="true"/></aside>:null}

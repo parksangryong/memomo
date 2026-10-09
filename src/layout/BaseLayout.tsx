@@ -1,4 +1,5 @@
 import { Outlet } from "react-router-dom";
+import { AD_SLOTS } from "../config/ads";
 import { AdSense } from "../Advertising/AdSense";
 
 const BaseLayout = () => {
@@ -7,7 +8,7 @@ const BaseLayout = () => {
   return (
     <div className="layout-container">
       <Outlet />
-      <AdSense slot={""} />
+      <AdSense slot={AD_SLOTS.footer} />
       <span className="copyright">
         © {currentYear} Memomo. Mirr56 All rights reserved. 2025
       </span>
