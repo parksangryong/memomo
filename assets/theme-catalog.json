@@ -1,0 +1,1217 @@
+[
+  {
+    "id": "animals",
+    "name": "동물 친구들",
+    "detail": "동물 30종",
+    "description": "귀여운 동물들을 기억하고 같은 친구를 찾아요.",
+    "kind": "same",
+    "cover": "/concepts/animals.webp",
+    "accent": "#edf7ed",
+    "minPairs": 10,
+    "pairs": [
+      {
+        "id": "dog",
+        "left": {
+          "name": "강아지",
+          "image": "/cards/animals/dog.webp"
+        },
+        "right": {
+          "name": "강아지",
+          "image": "/cards/animals/dog.webp"
+        }
+      },
+      {
+        "id": "cat",
+        "left": {
+          "name": "고양이",
+          "image": "/cards/animals/cat.webp"
+        },
+        "right": {
+          "name": "고양이",
+          "image": "/cards/animals/cat.webp"
+        }
+      },
+      {
+        "id": "rabbit",
+        "left": {
+          "name": "토끼",
+          "image": "/cards/animals/rabbit.webp"
+        },
+        "right": {
+          "name": "토끼",
+          "image": "/cards/animals/rabbit.webp"
+        }
+      },
+      {
+        "id": "fox",
+        "left": {
+          "name": "여우",
+          "image": "/cards/animals/fox.webp"
+        },
+        "right": {
+          "name": "여우",
+          "image": "/cards/animals/fox.webp"
+        }
+      },
+      {
+        "id": "lion",
+        "left": {
+          "name": "사자",
+          "image": "/cards/animals/lion.webp"
+        },
+        "right": {
+          "name": "사자",
+          "image": "/cards/animals/lion.webp"
+        }
+      },
+      {
+        "id": "tiger",
+        "left": {
+          "name": "호랑이",
+          "image": "/cards/animals/tiger.webp"
+        },
+        "right": {
+          "name": "호랑이",
+          "image": "/cards/animals/tiger.webp"
+        }
+      },
+      {
+        "id": "elephant",
+        "left": {
+          "name": "코끼리",
+          "image": "/cards/animals/elephant.webp"
+        },
+        "right": {
+          "name": "코끼리",
+          "image": "/cards/animals/elephant.webp"
+        }
+      },
+      {
+        "id": "giraffe",
+        "left": {
+          "name": "기린",
+          "image": "/cards/animals/giraffe.webp"
+        },
+        "right": {
+          "name": "기린",
+          "image": "/cards/animals/giraffe.webp"
+        }
+      },
+      {
+        "id": "zebra",
+        "left": {
+          "name": "얼룩말",
+          "image": "/cards/animals/zebra.webp"
+        },
+        "right": {
+          "name": "얼룩말",
+          "image": "/cards/animals/zebra.webp"
+        }
+      },
+      {
+        "id": "hippo",
+        "left": {
+          "name": "하마",
+          "image": "/cards/animals/hippo.webp"
+        },
+        "right": {
+          "name": "하마",
+          "image": "/cards/animals/hippo.webp"
+        }
+      },
+      {
+        "id": "rhino",
+        "left": {
+          "name": "코뿔소",
+          "image": "/cards/animals/rhino.webp"
+        },
+        "right": {
+          "name": "코뿔소",
+          "image": "/cards/animals/rhino.webp"
+        }
+      },
+      {
+        "id": "bear",
+        "left": {
+          "name": "곰",
+          "image": "/cards/animals/bear.webp"
+        },
+        "right": {
+          "name": "곰",
+          "image": "/cards/animals/bear.webp"
+        }
+      },
+      {
+        "id": "panda",
+        "left": {
+          "name": "판다",
+          "image": "/cards/animals/panda.webp"
+        },
+        "right": {
+          "name": "판다",
+          "image": "/cards/animals/panda.webp"
+        }
+      },
+      {
+        "id": "koala",
+        "left": {
+          "name": "코알라",
+          "image": "/cards/animals/koala.webp"
+        },
+        "right": {
+          "name": "코알라",
+          "image": "/cards/animals/koala.webp"
+        }
+      },
+      {
+        "id": "monkey",
+        "left": {
+          "name": "원숭이",
+          "image": "/cards/animals/monkey.webp"
+        },
+        "right": {
+          "name": "원숭이",
+          "image": "/cards/animals/monkey.webp"
+        }
+      },
+      {
+        "id": "gorilla",
+        "left": {
+          "name": "고릴라",
+          "image": "/cards/animals/gorilla.webp"
+        },
+        "right": {
+          "name": "고릴라",
+          "image": "/cards/animals/gorilla.webp"
+        }
+      },
+      {
+        "id": "wolf",
+        "left": {
+          "name": "늑대",
+          "image": "/cards/animals/wolf.webp"
+        },
+        "right": {
+          "name": "늑대",
+          "image": "/cards/animals/wolf.webp"
+        }
+      },
+      {
+        "id": "raccoon",
+        "left": {
+          "name": "라쿤",
+          "image": "/cards/animals/raccoon.webp"
+        },
+        "right": {
+          "name": "라쿤",
+          "image": "/cards/animals/raccoon.webp"
+        }
+      },
+      {
+        "id": "squirrel",
+        "left": {
+          "name": "다람쥐",
+          "image": "/cards/animals/squirrel.webp"
+        },
+        "right": {
+          "name": "다람쥐",
+          "image": "/cards/animals/squirrel.webp"
+        }
+      },
+      {
+        "id": "hedgehog",
+        "left": {
+          "name": "고슴도치",
+          "image": "/cards/animals/hedgehog.webp"
+        },
+        "right": {
+          "name": "고슴도치",
+          "image": "/cards/animals/hedgehog.webp"
+        }
+      },
+      {
+        "id": "otter",
+        "left": {
+          "name": "수달",
+          "image": "/cards/animals/otter.webp"
+        },
+        "right": {
+          "name": "수달",
+          "image": "/cards/animals/otter.webp"
+        }
+      },
+      {
+        "id": "deer",
+        "left": {
+          "name": "사슴",
+          "image": "/cards/animals/deer.webp"
+        },
+        "right": {
+          "name": "사슴",
+          "image": "/cards/animals/deer.webp"
+        }
+      },
+      {
+        "id": "sheep",
+        "left": {
+          "name": "양",
+          "image": "/cards/animals/sheep.webp"
+        },
+        "right": {
+          "name": "양",
+          "image": "/cards/animals/sheep.webp"
+        }
+      },
+      {
+        "id": "cow",
+        "left": {
+          "name": "소",
+          "image": "/cards/animals/cow.webp"
+        },
+        "right": {
+          "name": "소",
+          "image": "/cards/animals/cow.webp"
+        }
+      },
+      {
+        "id": "pig",
+        "left": {
+          "name": "돼지",
+          "image": "/cards/animals/pig.webp"
+        },
+        "right": {
+          "name": "돼지",
+          "image": "/cards/animals/pig.webp"
+        }
+      },
+      {
+        "id": "horse",
+        "left": {
+          "name": "말",
+          "image": "/cards/animals/horse.webp"
+        },
+        "right": {
+          "name": "말",
+          "image": "/cards/animals/horse.webp"
+        }
+      },
+      {
+        "id": "chicken",
+        "left": {
+          "name": "닭",
+          "image": "/cards/animals/chicken.webp"
+        },
+        "right": {
+          "name": "닭",
+          "image": "/cards/animals/chicken.webp"
+        }
+      },
+      {
+        "id": "duck",
+        "left": {
+          "name": "오리",
+          "image": "/cards/animals/duck.webp"
+        },
+        "right": {
+          "name": "오리",
+          "image": "/cards/animals/duck.webp"
+        }
+      },
+      {
+        "id": "penguin",
+        "left": {
+          "name": "펭귄",
+          "image": "/cards/animals/penguin.webp"
+        },
+        "right": {
+          "name": "펭귄",
+          "image": "/cards/animals/penguin.webp"
+        }
+      },
+      {
+        "id": "owl",
+        "left": {
+          "name": "부엉이",
+          "image": "/cards/animals/owl.webp"
+        },
+        "right": {
+          "name": "부엉이",
+          "image": "/cards/animals/owl.webp"
+        }
+      }
+    ]
+  },
+  {
+    "id": "food",
+    "name": "맛있는 짝꿍",
+    "detail": "과일·음식 30종",
+    "description": "과일부터 맛있는 음식까지, 같은 그림을 찾아요.",
+    "kind": "same",
+    "cover": "/concepts/food.webp",
+    "accent": "#fff3e8",
+    "minPairs": 10,
+    "pairs": [
+      {
+        "id": "apple",
+        "left": {
+          "name": "사과",
+          "image": "/cards/food/apple.webp"
+        },
+        "right": {
+          "name": "사과",
+          "image": "/cards/food/apple.webp"
+        }
+      },
+      {
+        "id": "banana",
+        "left": {
+          "name": "바나나",
+          "image": "/cards/food/banana.webp"
+        },
+        "right": {
+          "name": "바나나",
+          "image": "/cards/food/banana.webp"
+        }
+      },
+      {
+        "id": "strawberry",
+        "left": {
+          "name": "딸기",
+          "image": "/cards/food/strawberry.webp"
+        },
+        "right": {
+          "name": "딸기",
+          "image": "/cards/food/strawberry.webp"
+        }
+      },
+      {
+        "id": "grapes",
+        "left": {
+          "name": "포도",
+          "image": "/cards/food/grapes.webp"
+        },
+        "right": {
+          "name": "포도",
+          "image": "/cards/food/grapes.webp"
+        }
+      },
+      {
+        "id": "watermelon",
+        "left": {
+          "name": "수박",
+          "image": "/cards/food/watermelon.webp"
+        },
+        "right": {
+          "name": "수박",
+          "image": "/cards/food/watermelon.webp"
+        }
+      },
+      {
+        "id": "orange",
+        "left": {
+          "name": "오렌지",
+          "image": "/cards/food/orange.webp"
+        },
+        "right": {
+          "name": "오렌지",
+          "image": "/cards/food/orange.webp"
+        }
+      },
+      {
+        "id": "peach",
+        "left": {
+          "name": "복숭아",
+          "image": "/cards/food/peach.webp"
+        },
+        "right": {
+          "name": "복숭아",
+          "image": "/cards/food/peach.webp"
+        }
+      },
+      {
+        "id": "pineapple",
+        "left": {
+          "name": "파인애플",
+          "image": "/cards/food/pineapple.webp"
+        },
+        "right": {
+          "name": "파인애플",
+          "image": "/cards/food/pineapple.webp"
+        }
+      },
+      {
+        "id": "cherry",
+        "left": {
+          "name": "체리",
+          "image": "/cards/food/cherry.webp"
+        },
+        "right": {
+          "name": "체리",
+          "image": "/cards/food/cherry.webp"
+        }
+      },
+      {
+        "id": "kiwi",
+        "left": {
+          "name": "키위",
+          "image": "/cards/food/kiwi.webp"
+        },
+        "right": {
+          "name": "키위",
+          "image": "/cards/food/kiwi.webp"
+        }
+      },
+      {
+        "id": "mango",
+        "left": {
+          "name": "망고",
+          "image": "/cards/food/mango.webp"
+        },
+        "right": {
+          "name": "망고",
+          "image": "/cards/food/mango.webp"
+        }
+      },
+      {
+        "id": "pear",
+        "left": {
+          "name": "배",
+          "image": "/cards/food/pear.webp"
+        },
+        "right": {
+          "name": "배",
+          "image": "/cards/food/pear.webp"
+        }
+      },
+      {
+        "id": "lemon",
+        "left": {
+          "name": "레몬",
+          "image": "/cards/food/lemon.webp"
+        },
+        "right": {
+          "name": "레몬",
+          "image": "/cards/food/lemon.webp"
+        }
+      },
+      {
+        "id": "blueberries",
+        "left": {
+          "name": "블루베리",
+          "image": "/cards/food/blueberries.webp"
+        },
+        "right": {
+          "name": "블루베리",
+          "image": "/cards/food/blueberries.webp"
+        }
+      },
+      {
+        "id": "melon",
+        "left": {
+          "name": "멜론",
+          "image": "/cards/food/melon.webp"
+        },
+        "right": {
+          "name": "멜론",
+          "image": "/cards/food/melon.webp"
+        }
+      },
+      {
+        "id": "pizza",
+        "left": {
+          "name": "피자",
+          "image": "/cards/food/pizza.webp"
+        },
+        "right": {
+          "name": "피자",
+          "image": "/cards/food/pizza.webp"
+        }
+      },
+      {
+        "id": "burger",
+        "left": {
+          "name": "햄버거",
+          "image": "/cards/food/burger.webp"
+        },
+        "right": {
+          "name": "햄버거",
+          "image": "/cards/food/burger.webp"
+        }
+      },
+      {
+        "id": "hotdog",
+        "left": {
+          "name": "핫도그",
+          "image": "/cards/food/hotdog.webp"
+        },
+        "right": {
+          "name": "핫도그",
+          "image": "/cards/food/hotdog.webp"
+        }
+      },
+      {
+        "id": "sandwich",
+        "left": {
+          "name": "샌드위치",
+          "image": "/cards/food/sandwich.webp"
+        },
+        "right": {
+          "name": "샌드위치",
+          "image": "/cards/food/sandwich.webp"
+        }
+      },
+      {
+        "id": "gimbap",
+        "left": {
+          "name": "김밥",
+          "image": "/cards/food/gimbap.webp"
+        },
+        "right": {
+          "name": "김밥",
+          "image": "/cards/food/gimbap.webp"
+        }
+      },
+      {
+        "id": "sushi",
+        "left": {
+          "name": "초밥",
+          "image": "/cards/food/sushi.webp"
+        },
+        "right": {
+          "name": "초밥",
+          "image": "/cards/food/sushi.webp"
+        }
+      },
+      {
+        "id": "ramen",
+        "left": {
+          "name": "라면",
+          "image": "/cards/food/ramen.webp"
+        },
+        "right": {
+          "name": "라면",
+          "image": "/cards/food/ramen.webp"
+        }
+      },
+      {
+        "id": "dumpling",
+        "left": {
+          "name": "만두",
+          "image": "/cards/food/dumpling.webp"
+        },
+        "right": {
+          "name": "만두",
+          "image": "/cards/food/dumpling.webp"
+        }
+      },
+      {
+        "id": "tteokbokki",
+        "left": {
+          "name": "떡볶이",
+          "image": "/cards/food/tteokbokki.webp"
+        },
+        "right": {
+          "name": "떡볶이",
+          "image": "/cards/food/tteokbokki.webp"
+        }
+      },
+      {
+        "id": "donut",
+        "left": {
+          "name": "도넛",
+          "image": "/cards/food/donut.webp"
+        },
+        "right": {
+          "name": "도넛",
+          "image": "/cards/food/donut.webp"
+        }
+      },
+      {
+        "id": "cake",
+        "left": {
+          "name": "케이크",
+          "image": "/cards/food/cake.webp"
+        },
+        "right": {
+          "name": "케이크",
+          "image": "/cards/food/cake.webp"
+        }
+      },
+      {
+        "id": "icecream",
+        "left": {
+          "name": "아이스크림",
+          "image": "/cards/food/icecream.webp"
+        },
+        "right": {
+          "name": "아이스크림",
+          "image": "/cards/food/icecream.webp"
+        }
+      },
+      {
+        "id": "cookie",
+        "left": {
+          "name": "쿠키",
+          "image": "/cards/food/cookie.webp"
+        },
+        "right": {
+          "name": "쿠키",
+          "image": "/cards/food/cookie.webp"
+        }
+      },
+      {
+        "id": "croissant",
+        "left": {
+          "name": "크루아상",
+          "image": "/cards/food/croissant.webp"
+        },
+        "right": {
+          "name": "크루아상",
+          "image": "/cards/food/croissant.webp"
+        }
+      },
+      {
+        "id": "pancakes",
+        "left": {
+          "name": "팬케이크",
+          "image": "/cards/food/pancakes.webp"
+        },
+        "right": {
+          "name": "팬케이크",
+          "image": "/cards/food/pancakes.webp"
+        }
+      }
+    ]
+  },
+  {
+    "id": "world",
+    "name": "국기와 랜드마크",
+    "detail": "국기와 대표 명소 15쌍",
+    "description": "국기를 보고 그 나라의 랜드마크를 연결해요.",
+    "kind": "related",
+    "cover": "/concepts/world.webp",
+    "accent": "#eaf4ff",
+    "minPairs": 3,
+    "pairs": [
+      {
+        "id": "kr",
+        "left": {
+          "name": "대한민국 국기",
+          "image": "/cards/flags/kr.svg"
+        },
+        "right": {
+          "name": "경복궁",
+          "image": "/cards/world/gyeongbokgung.webp"
+        }
+      },
+      {
+        "id": "jp",
+        "left": {
+          "name": "일본 국기",
+          "image": "/cards/flags/jp.svg"
+        },
+        "right": {
+          "name": "후지산",
+          "image": "/cards/world/fuji.webp"
+        }
+      },
+      {
+        "id": "cn",
+        "left": {
+          "name": "중국 국기",
+          "image": "/cards/flags/cn.svg"
+        },
+        "right": {
+          "name": "만리장성",
+          "image": "/cards/world/great-wall.webp"
+        }
+      },
+      {
+        "id": "fr",
+        "left": {
+          "name": "프랑스 국기",
+          "image": "/cards/flags/fr.svg"
+        },
+        "right": {
+          "name": "에펠탑",
+          "image": "/cards/world/eiffel.webp"
+        }
+      },
+      {
+        "id": "it",
+        "left": {
+          "name": "이탈리아 국기",
+          "image": "/cards/flags/it.svg"
+        },
+        "right": {
+          "name": "콜로세움",
+          "image": "/cards/world/colosseum.webp"
+        }
+      },
+      {
+        "id": "gb",
+        "left": {
+          "name": "영국 국기",
+          "image": "/cards/flags/gb.svg"
+        },
+        "right": {
+          "name": "빅벤",
+          "image": "/cards/world/big-ben.webp"
+        }
+      },
+      {
+        "id": "us",
+        "left": {
+          "name": "미국 국기",
+          "image": "/cards/flags/us.svg"
+        },
+        "right": {
+          "name": "자유의 여신상",
+          "image": "/cards/world/liberty.webp"
+        }
+      },
+      {
+        "id": "br",
+        "left": {
+          "name": "브라질 국기",
+          "image": "/cards/flags/br.svg"
+        },
+        "right": {
+          "name": "구세주 그리스도상",
+          "image": "/cards/world/christ-redeemer.webp"
+        }
+      },
+      {
+        "id": "au",
+        "left": {
+          "name": "호주 국기",
+          "image": "/cards/flags/au.svg"
+        },
+        "right": {
+          "name": "시드니 오페라하우스",
+          "image": "/cards/world/opera-house.webp"
+        }
+      },
+      {
+        "id": "eg",
+        "left": {
+          "name": "이집트 국기",
+          "image": "/cards/flags/eg.svg"
+        },
+        "right": {
+          "name": "피라미드",
+          "image": "/cards/world/pyramid.webp"
+        }
+      },
+      {
+        "id": "in",
+        "left": {
+          "name": "인도 국기",
+          "image": "/cards/flags/in.svg"
+        },
+        "right": {
+          "name": "타지마할",
+          "image": "/cards/world/taj-mahal.webp"
+        }
+      },
+      {
+        "id": "ru",
+        "left": {
+          "name": "러시아 국기",
+          "image": "/cards/flags/ru.svg"
+        },
+        "right": {
+          "name": "성 바실리 대성당",
+          "image": "/cards/world/saint-basil.webp"
+        }
+      },
+      {
+        "id": "tr",
+        "left": {
+          "name": "튀르키예 국기",
+          "image": "/cards/flags/tr.svg"
+        },
+        "right": {
+          "name": "아야 소피아",
+          "image": "/cards/world/hagia-sophia.webp"
+        }
+      },
+      {
+        "id": "gr",
+        "left": {
+          "name": "그리스 국기",
+          "image": "/cards/flags/gr.svg"
+        },
+        "right": {
+          "name": "파르테논 신전",
+          "image": "/cards/world/parthenon.webp"
+        }
+      },
+      {
+        "id": "de",
+        "left": {
+          "name": "독일 국기",
+          "image": "/cards/flags/de.svg"
+        },
+        "right": {
+          "name": "브란덴부르크 문",
+          "image": "/cards/world/brandenburg.webp"
+        }
+      }
+    ]
+  },
+  {
+    "id": "timeline",
+    "name": "그때와 지금",
+    "detail": "옛것과 오늘의 물건 15쌍",
+    "description": "시간이 지나 달라진 물건의 짝을 찾아요.",
+    "kind": "related",
+    "cover": "/concepts/timeline.webp",
+    "accent": "#fff3df",
+    "minPairs": 3,
+    "pairs": [
+      {
+        "id": "1",
+        "left": {
+          "name": "지도",
+          "image": "/cards/timeline/map.webp"
+        },
+        "right": {
+          "name": "내비게이션",
+          "image": "/cards/timeline/navigation.webp"
+        }
+      },
+      {
+        "id": "2",
+        "left": {
+          "name": "CD",
+          "image": "/cards/timeline/cd.webp"
+        },
+        "right": {
+          "name": "스트리밍",
+          "image": "/cards/timeline/streaming.webp"
+        }
+      },
+      {
+        "id": "3",
+        "left": {
+          "name": "영사기",
+          "image": "/cards/timeline/film-projector.webp"
+        },
+        "right": {
+          "name": "프로젝터",
+          "image": "/cards/timeline/projector.webp"
+        }
+      },
+      {
+        "id": "4",
+        "left": {
+          "name": "칠판",
+          "image": "/cards/timeline/blackboard.webp"
+        },
+        "right": {
+          "name": "스마트보드",
+          "image": "/cards/timeline/smartboard.webp"
+        }
+      },
+      {
+        "id": "5",
+        "left": {
+          "name": "계산기",
+          "image": "/cards/timeline/calculator.webp"
+        },
+        "right": {
+          "name": "컴퓨터",
+          "image": "/cards/timeline/computer.webp"
+        }
+      },
+      {
+        "id": "6",
+        "left": {
+          "name": "빨래판",
+          "image": "/cards/timeline/washboard.webp"
+        },
+        "right": {
+          "name": "세탁기",
+          "image": "/cards/timeline/washer.webp"
+        }
+      },
+      {
+        "id": "7",
+        "left": {
+          "name": "마차",
+          "image": "/cards/timeline/carriage.webp"
+        },
+        "right": {
+          "name": "자동차",
+          "image": "/cards/timeline/car.webp"
+        }
+      },
+      {
+        "id": "8",
+        "left": {
+          "name": "전화기",
+          "image": "/cards/timeline/telephone.webp"
+        },
+        "right": {
+          "name": "스마트폰",
+          "image": "/cards/timeline/mobile.webp"
+        }
+      },
+      {
+        "id": "9",
+        "left": {
+          "name": "편지",
+          "image": "/cards/timeline/letter.webp"
+        },
+        "right": {
+          "name": "이메일",
+          "image": "/cards/timeline/email.webp"
+        }
+      },
+      {
+        "id": "10",
+        "left": {
+          "name": "촛불",
+          "image": "/cards/timeline/candle.webp"
+        },
+        "right": {
+          "name": "램프",
+          "image": "/cards/timeline/lamp.webp"
+        }
+      },
+      {
+        "id": "11",
+        "left": {
+          "name": "돛단배",
+          "image": "/cards/timeline/sailboat.webp"
+        },
+        "right": {
+          "name": "크루즈",
+          "image": "/cards/timeline/cruise.webp"
+        }
+      },
+      {
+        "id": "12",
+        "left": {
+          "name": "빗자루",
+          "image": "/cards/timeline/broom.webp"
+        },
+        "right": {
+          "name": "청소기",
+          "image": "/cards/timeline/vacuum.webp"
+        }
+      },
+      {
+        "id": "13",
+        "left": {
+          "name": "선풍기",
+          "image": "/cards/timeline/fan.webp"
+        },
+        "right": {
+          "name": "에어컨",
+          "image": "/cards/timeline/aircon.webp"
+        }
+      },
+      {
+        "id": "14",
+        "left": {
+          "name": "붓",
+          "image": "/cards/timeline/brush.webp"
+        },
+        "right": {
+          "name": "태블릿",
+          "image": "/cards/timeline/tablet.webp"
+        }
+      },
+      {
+        "id": "15",
+        "left": {
+          "name": "글라이더",
+          "image": "/cards/timeline/glider.webp"
+        },
+        "right": {
+          "name": "비행기",
+          "image": "/cards/timeline/airplane.webp"
+        }
+      }
+    ]
+  },
+  {
+    "id": "jobs",
+    "name": "직업과 도구",
+    "detail": "직업과 도구 15쌍",
+    "description": "어떤 일을 할까요? 직업에 맞는 도구를 찾아요.",
+    "kind": "related",
+    "cover": "/concepts/jobs.webp",
+    "accent": "#f1edff",
+    "minPairs": 3,
+    "pairs": [
+      {
+        "id": "chef",
+        "left": {
+          "name": "요리사",
+          "image": "/cards/jobs/chef.webp"
+        },
+        "right": {
+          "name": "프라이팬",
+          "image": "/cards/jobs/pan.webp"
+        }
+      },
+      {
+        "id": "painter",
+        "left": {
+          "name": "화가",
+          "image": "/cards/jobs/painter.webp"
+        },
+        "right": {
+          "name": "팔레트",
+          "image": "/cards/jobs/palette.webp"
+        }
+      },
+      {
+        "id": "carpenter",
+        "left": {
+          "name": "목수",
+          "image": "/cards/jobs/carpenter.webp"
+        },
+        "right": {
+          "name": "망치",
+          "image": "/cards/jobs/hammer.webp"
+        }
+      },
+      {
+        "id": "doctor",
+        "left": {
+          "name": "의사",
+          "image": "/cards/jobs/doctor.webp"
+        },
+        "right": {
+          "name": "청진기",
+          "image": "/cards/jobs/stethoscope.webp"
+        }
+      },
+      {
+        "id": "teacher",
+        "left": {
+          "name": "선생님",
+          "image": "/cards/jobs/teacher.webp"
+        },
+        "right": {
+          "name": "교실 칠판",
+          "image": "/cards/jobs/school-board.webp"
+        }
+      },
+      {
+        "id": "firefighter",
+        "left": {
+          "name": "소방관",
+          "image": "/cards/jobs/firefighter.webp"
+        },
+        "right": {
+          "name": "소방 호스",
+          "image": "/cards/jobs/fire-hose.webp"
+        }
+      },
+      {
+        "id": "farmer",
+        "left": {
+          "name": "농부",
+          "image": "/cards/jobs/farmer.webp"
+        },
+        "right": {
+          "name": "괭이",
+          "image": "/cards/jobs/hoe.webp"
+        }
+      },
+      {
+        "id": "photographer",
+        "left": {
+          "name": "사진작가",
+          "image": "/cards/jobs/photographer.webp"
+        },
+        "right": {
+          "name": "카메라",
+          "image": "/cards/jobs/camera.webp"
+        }
+      },
+      {
+        "id": "hairdresser",
+        "left": {
+          "name": "미용사",
+          "image": "/cards/jobs/hairdresser.webp"
+        },
+        "right": {
+          "name": "미용 가위",
+          "image": "/cards/jobs/scissors.webp"
+        }
+      },
+      {
+        "id": "tailor",
+        "left": {
+          "name": "재봉사",
+          "image": "/cards/jobs/tailor.webp"
+        },
+        "right": {
+          "name": "재봉틀",
+          "image": "/cards/jobs/sewing-machine.webp"
+        }
+      },
+      {
+        "id": "dentist",
+        "left": {
+          "name": "치과의사",
+          "image": "/cards/jobs/dentist.webp"
+        },
+        "right": {
+          "name": "치과 거울",
+          "image": "/cards/jobs/dental-mirror.webp"
+        }
+      },
+      {
+        "id": "astronaut",
+        "left": {
+          "name": "우주비행사",
+          "image": "/cards/jobs/astronaut.webp"
+        },
+        "right": {
+          "name": "우주 헬멧",
+          "image": "/cards/jobs/space-helmet.webp"
+        }
+      },
+      {
+        "id": "mechanic",
+        "left": {
+          "name": "정비사",
+          "image": "/cards/jobs/mechanic.webp"
+        },
+        "right": {
+          "name": "스패너",
+          "image": "/cards/jobs/wrench.webp"
+        }
+      },
+      {
+        "id": "baker",
+        "left": {
+          "name": "제빵사",
+          "image": "/cards/jobs/baker.webp"
+        },
+        "right": {
+          "name": "밀대",
+          "image": "/cards/jobs/rolling-pin.webp"
+        }
+      },
+      {
+        "id": "police",
+        "left": {
+          "name": "경찰관",
+          "image": "/cards/jobs/police.webp"
+        },
+        "right": {
+          "name": "교통 지휘봉",
+          "image": "/cards/jobs/traffic-baton.webp"
+        }
+      }
+    ]
+  }
+]

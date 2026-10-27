@@ -1,0 +1,951 @@
+{
+  "tool": "built-in image_gen",
+  "transparent": true,
+  "items": [
+    {
+      "theme": "animals",
+      "id": "dog",
+      "name": "강아지",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly golden retriever puppy, full body sitting. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "animals",
+      "id": "cat",
+      "name": "고양이",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly gray tabby cat, full body sitting. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "animals",
+      "id": "rabbit",
+      "name": "토끼",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one white rabbit with long pink ears, full body sitting. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "animals",
+      "id": "fox",
+      "name": "여우",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one red fox full body sitting. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": "assets/concept-preview/animal-fox.png"
+    },
+    {
+      "theme": "animals",
+      "id": "lion",
+      "name": "사자",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly male lion with golden mane, full body sitting. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "animals",
+      "id": "tiger",
+      "name": "호랑이",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly orange striped tiger, full body sitting. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "animals",
+      "id": "elephant",
+      "name": "코끼리",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly gray elephant with trunk, full body standing. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "animals",
+      "id": "giraffe",
+      "name": "기린",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly giraffe with long neck and patterned coat, full body standing. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "animals",
+      "id": "zebra",
+      "name": "얼룩말",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one black and white striped zebra, full body standing. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "animals",
+      "id": "hippo",
+      "name": "하마",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly rounded hippopotamus, full body standing. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "animals",
+      "id": "rhino",
+      "name": "코뿔소",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly gray rhinoceros with two horns, full body standing. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "animals",
+      "id": "bear",
+      "name": "곰",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one brown bear, full body sitting. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "animals",
+      "id": "panda",
+      "name": "판다",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one black and white giant panda, full body sitting, empty paws. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "animals",
+      "id": "koala",
+      "name": "코알라",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one gray koala with fluffy ears, full body sitting, no branch. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "animals",
+      "id": "monkey",
+      "name": "원숭이",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly small brown monkey with curved tail, full body sitting. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "animals",
+      "id": "gorilla",
+      "name": "고릴라",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly gorilla, full body sitting. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "animals",
+      "id": "wolf",
+      "name": "늑대",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly silver gray wolf, full body sitting. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "animals",
+      "id": "raccoon",
+      "name": "라쿤",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one raccoon with dark eye mask and ringed tail, full body sitting. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "animals",
+      "id": "squirrel",
+      "name": "다람쥐",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one reddish squirrel with large fluffy curled tail, full body sitting, empty paws. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "animals",
+      "id": "hedgehog",
+      "name": "고슴도치",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly hedgehog with short spines, full body side three quarter. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "animals",
+      "id": "otter",
+      "name": "수달",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly brown otter with whiskers, full body sitting. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "animals",
+      "id": "deer",
+      "name": "사슴",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly spotted deer with small antlers, full body standing. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "animals",
+      "id": "sheep",
+      "name": "양",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one fluffy cream sheep, full body standing. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "animals",
+      "id": "cow",
+      "name": "소",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly black and white cow, full body standing. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "animals",
+      "id": "pig",
+      "name": "돼지",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly pink pig, full body standing. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "animals",
+      "id": "horse",
+      "name": "말",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly chestnut horse with dark mane, full body standing. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "animals",
+      "id": "chicken",
+      "name": "닭",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly hen with red comb, full body standing. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "animals",
+      "id": "duck",
+      "name": "오리",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one white duck with orange bill and feet, full body standing. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "animals",
+      "id": "penguin",
+      "name": "펭귄",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly black and white penguin with orange feet, full body standing. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "animals",
+      "id": "owl",
+      "name": "부엉이",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly brown owl with feather ear tufts, full body perched without branch. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "food",
+      "id": "apple",
+      "name": "사과",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one whole red apple with a small leaf. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "food",
+      "id": "banana",
+      "name": "바나나",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one yellow banana, unpeeled. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "food",
+      "id": "strawberry",
+      "name": "딸기",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one whole ripe strawberry with green leafy crown. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": "assets/concept-preview/food-strawberry.png"
+    },
+    {
+      "theme": "food",
+      "id": "grapes",
+      "name": "포도",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one small bunch of purple grapes with a green leaf. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "food",
+      "id": "watermelon",
+      "name": "수박",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one triangular watermelon slice with red flesh and green rind. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "food",
+      "id": "orange",
+      "name": "오렌지",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one whole orange with one small green leaf. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "food",
+      "id": "peach",
+      "name": "복숭아",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one whole pink peach with a small leaf. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "food",
+      "id": "pineapple",
+      "name": "파인애플",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one whole pineapple with leafy crown. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "food",
+      "id": "cherry",
+      "name": "체리",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: two red cherries attached by stems as one fruit icon. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "food",
+      "id": "kiwi",
+      "name": "키위",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one halved kiwi fruit showing green flesh. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "food",
+      "id": "mango",
+      "name": "망고",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one whole golden-red mango. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "food",
+      "id": "pear",
+      "name": "배",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one round Korean golden Asian pear. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "food",
+      "id": "lemon",
+      "name": "레몬",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one whole yellow lemon. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "food",
+      "id": "blueberries",
+      "name": "블루베리",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: a compact small cluster of five blueberries as one fruit icon. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "food",
+      "id": "melon",
+      "name": "멜론",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one orange-fleshed cantaloupe wedge with netted green rind. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "food",
+      "id": "pizza",
+      "name": "피자",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one triangular cheese pizza slice. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "food",
+      "id": "burger",
+      "name": "햄버거",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one simple hamburger with sesame bun, lettuce, tomato, patty. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "food",
+      "id": "hotdog",
+      "name": "핫도그",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one hot dog sausage in a bun with mustard. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "food",
+      "id": "sandwich",
+      "name": "샌드위치",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one triangular sandwich with lettuce egg tomato filling. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "food",
+      "id": "gimbap",
+      "name": "김밥",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: three gimbap slices in a compact cluster, seaweed outside, colorful filling. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "food",
+      "id": "sushi",
+      "name": "초밥",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one salmon nigiri sushi on white rice. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "food",
+      "id": "ramen",
+      "name": "라면",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one small plain ceramic bowl of ramen noodles, bowl is part of the subject, no table. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "food",
+      "id": "dumpling",
+      "name": "만두",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one steamed crescent dumpling. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "food",
+      "id": "tteokbokki",
+      "name": "떡볶이",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: a small plain bowl of red tteokbokki rice cakes, no table. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "food",
+      "id": "donut",
+      "name": "도넛",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one ring donut with pink icing, no face. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "food",
+      "id": "cake",
+      "name": "케이크",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one strawberry layer cake slice. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "food",
+      "id": "icecream",
+      "name": "아이스크림",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one vanilla ice cream scoop in a waffle cone. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "food",
+      "id": "cookie",
+      "name": "쿠키",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one round chocolate chip cookie. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "food",
+      "id": "croissant",
+      "name": "크루아상",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one golden croissant. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "food",
+      "id": "pancakes",
+      "name": "팬케이크",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: three stacked pancakes topped with one butter pat and syrup, no plate. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "world",
+      "id": "gyeongbokgung",
+      "name": "경복궁",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: Gyeongbokgung Gyeonghoeru-style traditional Korean palace pavilion with curved tiled roof, a single main iconic palace gate building with no surroundings. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "world",
+      "id": "fuji",
+      "name": "후지산",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: Mount Fuji iconic symmetric snow-capped volcanic peak, one isolated mountain, no sky, no landscape background. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "world",
+      "id": "great-wall",
+      "name": "만리장성",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one compact recognizable section of the Great Wall of China with one watchtower and winding stone wall, no landscape. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "world",
+      "id": "eiffel",
+      "name": "에펠탑",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: the Eiffel Tower, entire recognizable structure. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": "assets/concept-preview/landmark-eiffel.png"
+    },
+    {
+      "theme": "world",
+      "id": "colosseum",
+      "name": "콜로세움",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: the Colosseum in Rome, iconic ancient oval amphitheatre. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "world",
+      "id": "big-ben",
+      "name": "빅벤",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: the Elizabeth Tower Big Ben clock tower, entire recognizable structure, clock face may have simple ticks not text. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "world",
+      "id": "liberty",
+      "name": "자유의 여신상",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: the Statue of Liberty, full recognizable monument with torch and crown, no writing on tablet. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "world",
+      "id": "christ-redeemer",
+      "name": "구세주 그리스도상",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: Rio de Janeiro Christ the Redeemer statue with outstretched arms, single statue on small plinth, no mountain. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "world",
+      "id": "opera-house",
+      "name": "시드니 오페라하우스",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: Sydney Opera House recognizable white sail-like shells, isolated building, no water. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "world",
+      "id": "pyramid",
+      "name": "피라미드",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: the Great Pyramid of Giza, one isolated golden stone pyramid, no desert scene. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "world",
+      "id": "taj-mahal",
+      "name": "타지마할",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: the Taj Mahal iconic white domed mausoleum with minarets, no garden. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "world",
+      "id": "saint-basil",
+      "name": "성 바실리 대성당",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: Saint Basil Cathedral in Moscow with recognizable colorful onion domes, one isolated building. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "world",
+      "id": "hagia-sophia",
+      "name": "아야 소피아",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: Hagia Sophia with central dome and four minarets, one isolated recognizable building. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "world",
+      "id": "parthenon",
+      "name": "파르테논 신전",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: the Parthenon ancient Greek temple with columns, isolated building. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "world",
+      "id": "brandenburg",
+      "name": "브란덴부르크 문",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: Brandenburg Gate in Berlin, entire isolated recognizable classical gate with quadriga. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "timeline",
+      "id": "map",
+      "name": "지도",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: a folded vintage paper road map, simple colored route lines with no text or labels. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "timeline",
+      "id": "navigation",
+      "name": "내비게이션",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one compact dashboard GPS navigation device with simple route line and pin on screen, no car, no text. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "timeline",
+      "id": "cd",
+      "name": "CD",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one shiny compact disc showing its central hole and iridescent reflection. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "timeline",
+      "id": "streaming",
+      "name": "스트리밍",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one smartphone displaying a simple music note and play icon on screen, no text, no headphones. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "timeline",
+      "id": "film-projector",
+      "name": "영사기",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one vintage film movie projector with two reels. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "timeline",
+      "id": "projector",
+      "name": "프로젝터",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one compact modern digital projector with a lens, no screen. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "timeline",
+      "id": "blackboard",
+      "name": "칠판",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one classic green school chalkboard with wooden frame and a piece of chalk, blank surface. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "timeline",
+      "id": "smartboard",
+      "name": "스마트보드",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one modern classroom interactive smartboard on stand, simple abstract colored shapes on screen, no text. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "timeline",
+      "id": "calculator",
+      "name": "계산기",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one compact vintage handheld calculator, clear button grid with blank unlabeled keys. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "timeline",
+      "id": "computer",
+      "name": "컴퓨터",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one modern desktop computer with monitor keyboard mouse, blank simple blue screen, compact group. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "timeline",
+      "id": "washboard",
+      "name": "빨래판",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one traditional wooden washboard with ridged center. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "timeline",
+      "id": "washer",
+      "name": "세탁기",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one modern white front loading washing machine. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "timeline",
+      "id": "carriage",
+      "name": "마차",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one classic horse-drawn carriage WITHOUT a horse, wooden coach with four wheels. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "timeline",
+      "id": "car",
+      "name": "자동차",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly modern compact car, three-quarter view. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "timeline",
+      "id": "telephone",
+      "name": "전화기",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one vintage rotary dial desk telephone. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "timeline",
+      "id": "mobile",
+      "name": "스마트폰",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one modern smartphone, simple blank home screen with geometric app squares, no text. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "timeline",
+      "id": "letter",
+      "name": "편지",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one cream paper envelope with a small visible folded letter, no writing. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "timeline",
+      "id": "email",
+      "name": "이메일",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one laptop with a simple envelope symbol on its screen, no text. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "timeline",
+      "id": "candle",
+      "name": "촛불",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one lit wax candle in a small brass holder. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "timeline",
+      "id": "lamp",
+      "name": "램프",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one modern rounded table lamp with shade. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "timeline",
+      "id": "sailboat",
+      "name": "돛단배",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one wooden sailing boat with white sails, isolated without water. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "timeline",
+      "id": "cruise",
+      "name": "크루즈",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one modern cruise ship, isolated without sea or waves. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "timeline",
+      "id": "broom",
+      "name": "빗자루",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one traditional straw broom with wooden handle. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "timeline",
+      "id": "vacuum",
+      "name": "청소기",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one modern canister vacuum cleaner with hose and floor nozzle, compact group. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "timeline",
+      "id": "fan",
+      "name": "선풍기",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one classic electric pedestal fan with circular blades and guard. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "timeline",
+      "id": "aircon",
+      "name": "에어컨",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one modern white wall-mounted air conditioner with open vents, no wall. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "timeline",
+      "id": "brush",
+      "name": "붓",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one traditional paintbrush with wooden handle and dark bristles, no palette. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "timeline",
+      "id": "tablet",
+      "name": "태블릿",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one modern drawing tablet with stylus, simple abstract colored stroke on screen, no writing. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "timeline",
+      "id": "glider",
+      "name": "글라이더",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one early wood and cloth glider aircraft without engine, single recognizable wing structure. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "timeline",
+      "id": "airplane",
+      "name": "비행기",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one modern passenger jet airplane, isolated without clouds. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "jobs",
+      "id": "chef",
+      "name": "요리사",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly adult chef wearing white toque and white apron, full body standing, empty hands. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": "assets/concept-preview/job-chef.png"
+    },
+    {
+      "theme": "jobs",
+      "id": "pan",
+      "name": "프라이팬",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one cooking frying pan, charcoal nonstick interior, warm metal rim, diagonal handle. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": "assets/concept-preview/tool-pan.png"
+    },
+    {
+      "theme": "jobs",
+      "id": "painter",
+      "name": "화가",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly adult woman artist wearing a paint-splashed apron and beret, full body, empty hands. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "jobs",
+      "id": "palette",
+      "name": "팔레트",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one wooden artist palette with colorful paint dabs, no brush. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "jobs",
+      "id": "carpenter",
+      "name": "목수",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly adult carpenter wearing work overalls and a tool belt with no visible identifiable tools, full body empty hands. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "jobs",
+      "id": "hammer",
+      "name": "망치",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one carpenter claw hammer with wooden handle. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "jobs",
+      "id": "doctor",
+      "name": "의사",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly adult woman doctor wearing a white coat over teal scrubs, full body empty hands, NO stethoscope. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "jobs",
+      "id": "stethoscope",
+      "name": "청진기",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one teal and silver medical stethoscope. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "jobs",
+      "id": "teacher",
+      "name": "선생님",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly adult male teacher wearing cardigan and glasses, full body empty hands, no board. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "jobs",
+      "id": "school-board",
+      "name": "교실 칠판",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one small green classroom chalkboard on a wooden easel, no text or equations. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "jobs",
+      "id": "firefighter",
+      "name": "소방관",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly adult woman firefighter in yellow turnout coat and safety helmet, full body empty hands, no fire. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "jobs",
+      "id": "fire-hose",
+      "name": "소방 호스",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one neatly coiled red firefighter hose with a silver nozzle, no fire. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "jobs",
+      "id": "farmer",
+      "name": "농부",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly adult woman farmer wearing straw hat and denim overalls, full body empty hands. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "jobs",
+      "id": "hoe",
+      "name": "괭이",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one gardening hoe with long wooden handle and steel blade. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "jobs",
+      "id": "photographer",
+      "name": "사진작가",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly adult male photographer in casual field vest, full body empty hands, NO camera. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "jobs",
+      "id": "camera",
+      "name": "카메라",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one black DSLR-style camera with lens, no logo. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "jobs",
+      "id": "hairdresser",
+      "name": "미용사",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly adult woman hairdresser in a smart black salon apron, full body empty hands, no scissors. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "jobs",
+      "id": "scissors",
+      "name": "미용 가위",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one pair of professional silver hairdressing scissors with finger rest. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "jobs",
+      "id": "tailor",
+      "name": "재봉사",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly adult male tailor wearing shirt and fabric apron, full body empty hands, no measuring tape or machine. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "jobs",
+      "id": "sewing-machine",
+      "name": "재봉틀",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one compact modern white sewing machine with a small spool of thread. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "jobs",
+      "id": "dentist",
+      "name": "치과의사",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly adult woman dentist wearing blue dental scrubs and a white coat, full body empty hands, no medical tools. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "jobs",
+      "id": "dental-mirror",
+      "name": "치과 거울",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one dental inspection mirror with round small mirror and stainless steel handle. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "jobs",
+      "id": "astronaut",
+      "name": "우주비행사",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly adult male astronaut in white space suit, full body bare head visible, no helmet in hands. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "jobs",
+      "id": "space-helmet",
+      "name": "우주 헬멧",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one white astronaut helmet with gold visor, isolated. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "jobs",
+      "id": "mechanic",
+      "name": "정비사",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly adult woman mechanic in blue work coveralls with a small blank patch, full body empty hands, no tools. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "jobs",
+      "id": "wrench",
+      "name": "스패너",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one large steel open-end mechanic wrench. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "jobs",
+      "id": "baker",
+      "name": "제빵사",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly adult male baker wearing a low white baker cap and tan apron, full body empty hands. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "jobs",
+      "id": "rolling-pin",
+      "name": "밀대",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one plain wooden rolling pin with two handles. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "jobs",
+      "id": "police",
+      "name": "경찰관",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one friendly adult woman police officer in blue uniform and cap, full body empty hands, no weapon or equipment in hands. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    },
+    {
+      "theme": "jobs",
+      "id": "traffic-baton",
+      "name": "교통 지휘봉",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo small memory game card. Subject: one red-and-white traffic directing baton with black handle, a traffic safety tool, no person. Style/medium: warm polished children's book gouache-like hand-painted illustration, soft shading, rounded friendly forms, natural vivid colors, crisp clear silhouette at 80px. Composition: ONE single isolated subject, centered on a genuinely transparent background, square image, subject occupies 75-80% of frame with equal safe margins and nothing cropped. No landscape, no scenery, no backdrop, no floor, no ground shadow, no decorative props, no extra objects except parts explicitly specified, no captions, no text, no watermark, no logo. Animals are natural animals, not humanized. Objects do not have faces.",
+      "reuse": null
+    }
+  ]
+}

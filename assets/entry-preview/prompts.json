@@ -1,0 +1,92 @@
+{
+  "tool": "built-in image_gen",
+  "purpose": "six mode entrance illustrations, not gameplay cards",
+  "modes": [
+    {
+      "id": "animals",
+      "name": "동물 친구들",
+      "detail": "동물 30종",
+      "description": "귀여운 동물들을 기억하고 같은 친구를 찾아요.",
+      "kind": "같은 그림 찾기",
+      "color": "#edf7ed"
+    },
+    {
+      "id": "food",
+      "name": "맛있는 짝꿍",
+      "detail": "과일·음식 30종",
+      "description": "과일부터 맛있는 음식까지, 같은 그림을 찾아요.",
+      "kind": "같은 그림 찾기",
+      "color": "#fff3e8"
+    },
+    {
+      "id": "world",
+      "name": "국기와 랜드마크",
+      "detail": "나라와 대표 명소",
+      "description": "국기를 보고 그 나라의 랜드마크를 연결해요.",
+      "kind": "연결되는 짝 찾기",
+      "color": "#eaf4ff"
+    },
+    {
+      "id": "timeline",
+      "name": "그때와 지금",
+      "detail": "옛것과 오늘의 물건 15쌍",
+      "description": "시간이 지나 달라진 물건의 짝을 찾아요.",
+      "kind": "연결되는 짝 찾기",
+      "color": "#fff3df"
+    },
+    {
+      "id": "jobs",
+      "name": "직업과 도구",
+      "detail": "직업과 도구 15쌍",
+      "description": "어떤 일을 할까요? 직업에 맞는 도구를 찾아요.",
+      "kind": "연결되는 짝 찾기",
+      "color": "#f1edff"
+    },
+    {
+      "id": "custom",
+      "name": "커스텀 모드",
+      "detail": "내 사진으로 직접 만들기",
+      "description": "가족, 친구, 수업 사진으로 나만의 게임을 만들어요.",
+      "kind": "이미지 직접 업로드",
+      "color": "#eaf8f4"
+    }
+  ],
+  "prompts": [
+    {
+      "id": "animals",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo memory game MODE ENTRANCE illustration, not an in-game answer card. Create ONE square standalone group illustration, genuine transparent background. Warm polished children's book gouache-like painted illustration with soft shading, charming rounded shapes, crisp recognizable silhouettes, vibrant natural colors, matching a friendly painted red fox and strawberry illustration style. Composition compact centered coherent cluster occupying central 75%, ample equal safe margin, no external floor shadow, no scenery, no rectangular background, no frame, no text, no letters or numbers, no watermark. This artwork is only a thematic cover; do not show a revealed matching pair or sample playable cards. Subject: a friendly fox, rabbit and small chick peeking together over a small fan of three FACE-DOWN forest-green memory cards, cute natural animals, distinct ears and expressions, conveying animal friends.",
+      "source": "assets/entry-preview/animals.png",
+      "web": "public/concepts/animals.webp"
+    },
+    {
+      "id": "food",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo memory game MODE ENTRANCE illustration, not an in-game answer card. Create ONE square standalone group illustration, genuine transparent background. Warm polished children's book gouache-like painted illustration with soft shading, charming rounded shapes, crisp recognizable silhouettes, vibrant natural colors, matching a friendly painted red fox and strawberry illustration style. Composition compact centered coherent cluster occupying central 75%, ample equal safe margin, no external floor shadow, no scenery, no rectangular background, no frame, no text, no letters or numbers, no watermark. This artwork is only a thematic cover; do not show a revealed matching pair or sample playable cards. Subject: playful picnic food cluster around a small folded gingham napkin, a strawberry, a croissant and a small rice ball, all non-anthropomorphic, appetizing handcrafted look. No repeated identical items and no card grid. Convey diverse fruit and foods.",
+      "source": "assets/entry-preview/food.png",
+      "web": "public/concepts/food.webp"
+    },
+    {
+      "id": "world",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo memory game MODE ENTRANCE illustration, not an in-game answer card. Create ONE square standalone group illustration, genuine transparent background. Warm polished children's book gouache-like painted illustration with soft shading, charming rounded shapes, crisp recognizable silhouettes, vibrant natural colors, matching a friendly painted red fox and strawberry illustration style. Composition compact centered coherent cluster occupying central 75%, ample equal safe margin, no external floor shadow, no scenery, no rectangular background, no frame, no text, no letters or numbers, no watermark. This artwork is only a thematic cover; do not show a revealed matching pair or sample playable cards. Subject: a small elegant blue-green globe with a tiny travel suitcase and compass grouped in front, a cheerful global exploration theme. No flags, no buildings or actual landmark answers, no country labels, no card grid.",
+      "source": "assets/entry-preview/world.png",
+      "web": "public/concepts/world.webp"
+    },
+    {
+      "id": "timeline",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo memory game MODE ENTRANCE illustration, not an in-game answer card. Create ONE square standalone group illustration, genuine transparent background. Warm polished children's book gouache-like painted illustration with soft shading, charming rounded shapes, crisp recognizable silhouettes, vibrant natural colors, matching a friendly painted red fox and strawberry illustration style. Composition compact centered coherent cluster occupying central 75%, ample equal safe margin, no external floor shadow, no scenery, no rectangular background, no frame, no text, no letters or numbers, no watermark. This artwork is only a thematic cover; do not show a revealed matching pair or sample playable cards. Subject: a beautiful friendly hourglass with warm sand, a curved teal arrow and a curved warm coral arrow gently circling around it, a small brass gear near its foot, conveying the transition between past and present. No playable old-modern answer objects, no card grid.",
+      "source": "assets/entry-preview/timeline.png",
+      "web": "public/concepts/timeline.webp"
+    },
+    {
+      "id": "jobs",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo memory game MODE ENTRANCE illustration, not an in-game answer card. Create ONE square standalone group illustration, genuine transparent background. Warm polished children's book gouache-like painted illustration with soft shading, charming rounded shapes, crisp recognizable silhouettes, vibrant natural colors, matching a friendly painted red fox and strawberry illustration style. Composition compact centered coherent cluster occupying central 75%, ample equal safe margin, no external floor shadow, no scenery, no rectangular background, no frame, no text, no letters or numbers, no watermark. This artwork is only a thematic cover; do not show a revealed matching pair or sample playable cards. Subject: a compact open friendly teal toolbox carrying a white chef toque, a paintbrush and a yellow construction helmet in a harmonious cluster, communicating diverse jobs and tools. No human character and no displayed profession-tool pair, no card grid.",
+      "source": "assets/entry-preview/jobs.png",
+      "web": "public/concepts/jobs.webp"
+    },
+    {
+      "id": "custom",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo memory game MODE ENTRANCE illustration, not an in-game answer card. Create ONE square standalone group illustration, genuine transparent background. Warm polished children's book gouache-like painted illustration with soft shading, charming rounded shapes, crisp recognizable silhouettes, vibrant natural colors, matching a friendly painted red fox and strawberry illustration style. Composition compact centered coherent cluster occupying central 75%, ample equal safe margin, no external floor shadow, no scenery, no rectangular background, no frame, no text, no letters or numbers, no watermark. This artwork is only a thematic cover; do not show a revealed matching pair or sample playable cards. Subject: a small stack of blank instant photo frames, front frame contains only a simple mint upload arrow symbol, a rounded coral plus badge near its corner, and a small pencil leaning against the stack. No real photo, no human face, no words. Communicate uploading your own pictures and creating a personal game.",
+      "source": "assets/entry-preview/custom.png",
+      "web": "public/concepts/custom.webp"
+    }
+  ]
+}

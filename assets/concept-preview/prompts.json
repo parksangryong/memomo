@@ -1,0 +1,38 @@
+{
+  "status": "approval-only",
+  "tool": "built-in image_gen",
+  "concepts": {
+    "animals": 30,
+    "food": 30,
+    "flagsLandmarks": "pair count pending",
+    "pastPresent": 15,
+    "jobsTools": 15
+  },
+  "samples": [
+    {
+      "name": "animal-fox",
+      "file": "animal-fox.png",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo memory card approval sample. Single isolated subject centered on genuinely transparent background. Friendly polished softly shaded hand-painted gouache-like illustration, clear silhouette at 80px, rounded forms, natural vivid colors. Subject fills 75% of square canvas with equal margins. No scenery, no floor, no shadows outside subject, no frame, no text, no watermark. Subject: one cute red fox, full body sitting, natural animal not human, alert ears and fluffy tail."
+    },
+    {
+      "name": "food-strawberry",
+      "file": "food-strawberry.png",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo memory card approval sample. Single isolated subject centered on genuinely transparent background. Friendly polished softly shaded hand-painted gouache-like illustration, clear silhouette at 80px, rounded forms, natural vivid colors. Subject fills 75% of square canvas with equal margins. No scenery, no floor, no shadows outside subject, no frame, no text, no watermark. Subject: one whole ripe strawberry with green leafy crown, no face, no plate or props."
+    },
+    {
+      "name": "landmark-eiffel",
+      "file": "landmark-eiffel.png",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo memory card approval sample. Single isolated subject centered on genuinely transparent background. Friendly polished softly shaded hand-painted gouache-like illustration, clear silhouette at 80px, rounded forms, natural vivid colors. Subject fills 75% of square canvas with equal margins. No scenery, no floor, no shadows outside subject, no frame, no text, no watermark. Subject: Eiffel Tower in Paris, entire recognizable structure, simplified elegant warm steel lattice, no landscape or flag."
+    },
+    {
+      "name": "job-chef",
+      "file": "job-chef.png",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo memory card approval sample. Single isolated subject centered on genuinely transparent background. Friendly polished softly shaded hand-painted gouache-like illustration, clear silhouette at 80px, rounded forms, natural vivid colors. Subject fills 75% of square canvas with equal margins. No scenery, no floor, no shadows outside subject, no frame, no text, no watermark. Subject: one friendly chef in white toque and white apron, full body, relaxed standing pose, empty hands. No cooking utensils, no kitchen."
+    },
+    {
+      "name": "tool-pan",
+      "file": "tool-pan.png",
+      "prompt": "Use case: stylized-concept. Asset type: Memomo memory card approval sample. Single isolated subject centered on genuinely transparent background. Friendly polished softly shaded hand-painted gouache-like illustration, clear silhouette at 80px, rounded forms, natural vivid colors. Subject fills 75% of square canvas with equal margins. No scenery, no floor, no shadows outside subject, no frame, no text, no watermark. Subject: one cooking frying pan, charcoal nonstick interior and warm metal rim, diagonal handle, no food or additional objects."
+    }
+  ]
+}

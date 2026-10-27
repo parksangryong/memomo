@@ -10,6 +10,11 @@ lerna-debug.log*
 node_modules
 dist
 dist-ssr
+dist-server
+# Full-resolution generated masters stay local; optimized service images are tracked.
+assets/cards/
+assets/concept-preview/*.png
+assets/entry-preview/*.png
 *.local
 
 # Editor directories and files

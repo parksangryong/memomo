@@ -4,7 +4,6 @@ import "./index.css";
 import App from "./App.tsx";
 
 import "@fontsource/noto-sans/400.css";
-import "@fontsource/noto-sans/400-italic.css";
 
 const root = document.getElementById("root")!;
 const app = (
@@ -12,4 +11,12 @@ const app = (
     <App />
   </StrictMode>
 );
-root.hasChildNodes() ? hydrateRoot(root, app) : createRoot(root).render(app);
+const requestedPath = window.location.pathname.replace(/\/+$/, "") || "/";
+const prerenderedPath = root.dataset.prerenderPath;
+if (root.hasChildNodes() && prerenderedPath === requestedPath) hydrateRoot(root, app);
+else {
+  // A static host may serve the home HTML as its SPA fallback for another URL.
+  // Only hydrate matching HTML; otherwise mount the requested route cleanly.
+  root.replaceChildren();
+  createRoot(root).render(app);
+}

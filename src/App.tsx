@@ -6,6 +6,7 @@ import { useEffect } from "react";
 import Home from "./page/Home";
 import CardFlip from "./page/CardFlip";
 import Privacy from "./page/Privacy";
+import { themes } from "./data/themes";
 
 // layout
 import BaseLayout from "./layout/BaseLayout";
@@ -30,6 +31,8 @@ function App({ url }: { url?: string }) {
           path: "/",
           element: <Home />,
         },
+        ...themes.map((theme) => ({ path: "/play/" + theme.id, element: <Home key={theme.id} modeId={theme.id} /> })),
+        { path: "/play/custom", element: <Home key="custom" modeId="custom" /> },
         {
           path: "/card-flip",
           element: <CardFlip />,
