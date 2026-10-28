@@ -115,7 +115,11 @@ export default function Home({ modeId }: { modeId?: ModeId }) {
       <span>작은 기억이 모이는 시간</span>
     </header>
     {!current ? <>
-      <section className="mode-intro"><span className="eyebrow">CHOOSE YOUR PLAY</span><h1>오늘은 어떤 기억을 맞춰볼까요?</h1><p>다섯 가지 테마와 나만의 커스텀 게임.<br />함께할 이야기를 고르면 기억 놀이가 시작돼요.</p></section>
+      <section className="mode-intro">
+        <div className="hero-copy"><span className="eyebrow">CHOOSE YOUR PLAY</span><h1>오늘은 어떤 기억을<br /><em>맞춰볼까요?</em></h1><p>다섯 가지 테마와 나만의 커스텀 게임.<br />함께할 이야기를 고르면 기억 놀이가 시작돼요.</p>
+          <ul className="hero-chips" aria-label="게임 특징"><li>5가지 테마</li><li>내 사진으로 만들기</li><li>무료 · 설치 없음</li></ul></div>
+        <div className="hero-cards" aria-hidden="true">{["animals", "food", "world"].map((name) => <span key={name} className="hero-card"><img src={"/concepts/" + name + ".webp"} alt="" width="120" height="120" decoding="async" /></span>)}</div>
+      </section>
       <nav className="mode-grid" aria-label="6가지 게임 모드">
         {modes.map((mode) => <Link className="mode-card" to={"/play/" + mode.id + "/"} key={mode.id} style={{ "--mode-tint": mode.accent } as CSSProperties}>
           <div className="mode-art"><span className="mode-badge">{mode.kind === "same" ? "같은 그림 찾기" : mode.kind === "related" ? "연결되는 짝 찾기" : "이미지 직접 업로드"}</span><img src={mode.cover} alt="" width="170" height="132" decoding="async" /></div>
